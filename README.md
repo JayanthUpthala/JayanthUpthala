@@ -1,10 +1,37 @@
-## Hi there 👋
+# Hi, I'm Jayanth 👋
 
-I am Jayanth Upthala, Graduate Master Student in Computer Science at the University of Bridgeport, with technical skills in data structures, Python, and SQL. Motivated by a passion for problem-solving and innovation, aiming to contribute to impactful projects in software development while continuing to explore cutting-edge technologies.
+🚀 Data Scientist with 2.5+ years of experience in Python, SQL, and Machine Learning  
+📊 Passionate about solving real-world problems using data  
 
-- 👯 I’m looking to collaborate on AI and computer vision projects 
-- 🤔 I’m looking for help to avoid procastination
-- 💬 Ask me about Mathematics, algorithms and complexities.
-- 📫 How to reach me: Email me at jayanth.upthala@gmail.com or connect Linked In at @jayanth-uphtala
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I dreamt of becoming a Mathematician in childhood :)
+---
+
+## 🔍 What I Do
+- Predictive Modeling (Churn, Classification, Forecasting)
+- Data Analysis & Visualization
+- Feature Engineering & Model Optimization
+- NLP & LLMs (RAG, Semantic Search)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 RAG Llama3 (LLM + Retrieval System)
+- Built a Retrieval-Augmented Generation system using Llama3
+- Implemented FAISS-based semantic search for efficient retrieval
+- Improved query relevance and response accuracy
+
+### 🔹 Brain Stroke Detection (Healthcare ML)
+- Built classification models to predict stroke risk
+- Performed EDA and feature engineering
+- Evaluated models using accuracy, precision, recall, and ROC-AUC
+
+---
+
+## 🛠 Tech Stack
+Python | SQL | Pandas | NumPy | Scikit-learn | TensorFlow  
+Matplotlib | Seaborn | Power BI | Airflow | dbt  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/jayanth-upthala/
