@@ -50,5 +50,15 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Jayanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayanthUpthala&show_icons=true&theme=radical&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayanthUpthala&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JayanthUpthala&theme=radical)
+
+---
+
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/jayanth-upthala/
