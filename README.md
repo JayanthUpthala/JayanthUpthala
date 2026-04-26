@@ -16,15 +16,13 @@
 ## 🚀 Featured Projects
 
 ### 🔹 RAG Llama3 (LLM + Retrieval System)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 - Built a Retrieval-Augmented Generation system using Llama3
 - Implemented FAISS-based semantic search for efficient retrieval
 - Improved query relevance and response accuracy
 
 ### 🔹 Brain Stroke Detection (Healthcare ML)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 - Built classification models to predict stroke risk
 - Performed EDA and feature engineering
 - Evaluated models using accuracy, precision, recall, and ROC-AUC
