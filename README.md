@@ -1,6 +1,6 @@
 # Hi, I'm Jayanth 👋
 
-🚀 Data Analyst with ~2 years of experience in Python, SQL, and Machine Learning  
+🚀 Data Analyst with Software Engineering experience in Python, SQL, and Machine Learning  
 📊 Passionate about solving real-world problems using data  
 
 ---
